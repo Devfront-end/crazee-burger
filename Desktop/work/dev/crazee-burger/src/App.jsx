@@ -22,7 +22,8 @@ function App() {
           count is {count}
         </button>
         <p>
-        Salut Jules
+        Salut Jules, <br />
+        Premier commit de test pour le projet Vite + React.
         </p>
       </div>
       <p className="read-the-docs">
